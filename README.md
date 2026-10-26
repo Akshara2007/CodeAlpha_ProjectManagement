@@ -1,116 +1,214 @@
-\# TaskFlow – Project Management Tool
+# TaskFlow – Project Management Tool
 
-
-
-\## About the Project
+## About the Project
 
 TaskFlow is a simple project management web application developed using Django. It helps users organize projects, manage tasks, assign tasks to users, and track project progress.
 
+This project was developed as part of the CodeAlpha internship program.
 
+## Features
+
+- User registration and login
+- Create and manage projects
+- Create tasks within projects
+- Assign tasks to users
+- Set task status and due dates
+- Edit and delete tasks
+- Track project progress using a percentage indicator
+- Simple and user-friendly interface
+
+## Technologies Used
+
+- Python
+- Django
+- HTML
+- CSS
+- SQLite
+
+## Installation and Setup
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Akshara2007/CodeAlpha_ProjectManagement.git
+```
+
+### 2. Open the Project Folder
+
+```bash
+cd CodeAlpha_ProjectManagement
+```
+
+### 3. Install Django
+
+```bash
+python -m pip install django
+```
+
+### 4. Apply Database Migrations
+
+```bash
+python manage.py migrate
+```
+
+### 5. Start the Development Server
+
+```bash
+python manage.py runserver
+```
+
+### 6. Open the Application
+
+Open your browser and visit:
+
+http://127.0.0.1:8000/
+
+## Note
+
+This project is intended for learning and demonstration purposes. The Django development server is for local testing and is not intended for production deployment.
+
+## Author
+
+Akshara Perka# TaskFlow – Project Management Tool
+
+## About the Project
+
+TaskFlow is a simple project management web application developed using Django. It helps users organize projects, manage tasks, assign tasks to users, and track project progress.
 
 This project was developed as part of the CodeAlpha internship program.
 
+## Features
 
+- User registration and login
+- Create and manage projects
+- Create tasks within projects
+- Assign tasks to users
+- Set task status and due dates
+- Edit and delete tasks
+- Track project progress using a percentage indicator
+- Simple and user-friendly interface
 
-\## Features
+## Technologies Used
 
-\- User registration and login
+- Python
+- Django
+- HTML
+- CSS
+- SQLite
 
-\- Create and manage projects
+## Installation and Setup
 
-\- Create tasks within projects
+### 1. Clone the Repository
 
-\- Assign tasks to users
+```bash
+git clone https://github.com/Akshara2007/CodeAlpha_ProjectManagement.git
+```
 
-\- Set task status and due dates
+### 2. Open the Project Folder
 
-\- Edit and delete tasks
+```bash
+cd CodeAlpha_ProjectManagement
+```
 
-\- Track project progress using a percentage indicator
+### 3. Install Django
 
-\- Simple and user-friendly interface
+```bash
+python -m pip install django
+```
 
+### 4. Apply Database Migrations
 
+```bash
+python manage.py migrate
+```
 
-\## Technologies Used
+### 5. Start the Development Server
 
-\- Python
+```bash
+python manage.py runserver
+```
 
-\- Django
+### 6. Open the Application
 
-\- HTML
+Open your browser and visit:
 
-\- CSS
+http://127.0.0.1:8000/
 
-\- SQLite
+## Note
 
+This project is intended for learning and demonstration purposes. The Django development server is for local testing and is not intended for production deployment.
 
+## Author
 
-\## Installation and Setup
+Akshara Perka# TaskFlow – Project Management Tool
 
+## About the Project
 
+TaskFlow is a simple project management web application developed using Django. It helps users organize projects, manage tasks, assign tasks to users, and track project progress.
 
-1\. Clone the repository:
+This project was developed as part of the CodeAlpha internship program.
 
-&#x20;  ```bash
+## Features
 
-&#x20;  git clone https://github.com/Akshara2007/CodeAlpha\_ProjectManagement.git
+- User registration and login
+- Create and manage projects
+- Create tasks within projects
+- Assign tasks to users
+- Set task status and due dates
+- Edit and delete tasks
+- Track project progress using a percentage indicator
+- Simple and user-friendly interface
 
-&#x20;  ```
+## Technologies Used
 
+- Python
+- Django
+- HTML
+- CSS
+- SQLite
 
+## Installation and Setup
 
-2\. Open the project folder:
+### 1. Clone the Repository
 
-&#x20;  ```bash
+```bash
+git clone https://github.com/Akshara2007/CodeAlpha_ProjectManagement.git
+```
 
-&#x20;  cd CodeAlpha\_ProjectManagement
+### 2. Open the Project Folder
 
-&#x20;  ```
+```bash
+cd CodeAlpha_ProjectManagement
+```
 
+### 3. Install Django
 
+```bash
+python -m pip install django
+```
 
-3\. Install Django:
+### 4. Apply Database Migrations
 
-&#x20;  ```bash
+```bash
+python manage.py migrate
+```
 
-&#x20;  python -m pip install django
+### 5. Start the Development Server
 
-&#x20;  ```
+```bash
+python manage.py runserver
+```
 
+### 6. Open the Application
 
+Open your browser and visit:
 
-4\. Apply database migrations:
+http://127.0.0.1:8000/
 
-&#x20;  ```bash
+## Note
 
-&#x20;  python manage.py migrate
+This project is intended for learning and demonstration purposes. The Django development server is for local testing and is not intended for production deployment.
 
-&#x20;  ```
-
-
-
-5\. Start the development server:
-
-&#x20;  ```bash
-
-&#x20;  python manage.py runserver
-
-&#x20;  ```
-
-
-
-6\. Open `http://127.0.0.1:8000/` in your browser.
-
-
-
-\## Note
-
-This project is intended for learning and demonstration purposes. The development server is for local testing and is not intended for production deployment.
-
-
-
-\## Author
+## Author
 
 Akshara Perka
-
